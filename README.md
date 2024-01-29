@@ -9,3 +9,6 @@ Handled by supervisord
 
 ## backup
 crontab
+
+## issue
+[Lost progress after update server](https://nodecraft.com/support/games/palworld/fix-palworld-server-update-wiping-player-progress)
